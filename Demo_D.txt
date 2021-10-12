@@ -1,0 +1,7 @@
+D = 1/8*
+30III
+2IIZ
+-2IZI
+2IZZ
+-4ZII
+4ZZZ
